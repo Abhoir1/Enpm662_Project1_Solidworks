@@ -1,0 +1,3 @@
+[submodule "Robot_Model_SolidWorks/Robot_URDF"]
+	path = Robot_Model_SolidWorks/Robot_URDF
+	url = https://github.com/Abhoir1/Robot_URDF.git
